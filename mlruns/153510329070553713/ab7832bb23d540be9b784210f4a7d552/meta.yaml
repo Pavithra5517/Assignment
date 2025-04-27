@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/153510329070553713/ab7832bb23d540be9b784210f4a7d552/artifacts
+end_time: 1744271185227
+entry_point_name: ''
+experiment_id: '153510329070553713'
+lifecycle_stage: active
+run_id: ab7832bb23d540be9b784210f4a7d552
+run_name: sassy-steed-584
+run_uuid: ab7832bb23d540be9b784210f4a7d552
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744271177470
+status: 3
+tags: []
+user_id: rapav
